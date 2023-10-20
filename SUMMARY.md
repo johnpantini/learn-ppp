@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Раздел в разработке](README.md)
+* [❓ Как пользоваться пособием](README.md)
