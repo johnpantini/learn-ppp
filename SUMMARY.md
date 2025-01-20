@@ -11,3 +11,7 @@
 ## Внешние API <a href="#apis" id="apis"></a>
 
 * [Yandex Cloud](apis/yc.md)
+
+## Портативная версия <a href="#portable-version" id="portable-version"></a>
+
+* [💾 Загрузить](portable-version/download.md)
