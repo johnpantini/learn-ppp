@@ -14,4 +14,4 @@
 
 ## Портативная версия <a href="#portable-version" id="portable-version"></a>
 
-* [💾 Загрузить](portable-version/download.md)
+* [⬇️ Загрузить](portable-version/download.md)
