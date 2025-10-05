@@ -6,7 +6,6 @@
 
 * [Прокси-ресурс](cloud-services/ppp-proxy.md)
 * [Персональный токен GitHub](cloud-services/personal-github-token.md)
-* [Ключи MongoDB Atlas](cloud-services/mongodb-atlas-keys.md)
 
 ## Внешние API <a href="#apis" id="apis"></a>
 

@@ -14,13 +14,13 @@ description: Windows x64
 
 Запустите файл установщика и следуйте инструкциям:
 
-[https://github.com/johnpantini/ppp/releases/download/v5.34.1/ppp\_5.34.1\_x64-setup.exe](https://github.com/johnpantini/ppp/releases/download/v5.34.1/ppp_5.34.1_x64-setup.exe)
+[https://github.com/johnpantini/ppp/releases/download/v5.34.2/ppp\_5.34.2\_x64-setup.exe](https://github.com/johnpantini/ppp/releases/download/v5.34.2/ppp_5.34.2_x64-setup.exe)
 
 ## Дополнительно
 
 Шлюз **MongoDB** для Windows x64:
 
-[https://github.com/johnpantini/ppp/releases/download/v5.34.1/ppf-setup.exe](https://github.com/johnpantini/ppp/releases/download/v5.34.1/ppf-setup.exe)
+[https://github.com/johnpantini/ppp/releases/download/v5.34.2/ppf-setup.exe](https://github.com/johnpantini/ppp/releases/download/v5.34.2/ppf-setup.exe)
 
-
+Перед установкой шлюза удалите самостоятельно старую версию.
 

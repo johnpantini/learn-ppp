@@ -66,8 +66,8 @@
 [personal-github-token.md](cloud-services/personal-github-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="cloud-services/mongodb-atlas-keys.md" %}
-[mongodb-atlas-keys.md](cloud-services/mongodb-atlas-keys.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 Когда все ключи собраны и введены в форму на странице облачных сервисов, нажимайте кнопку **Сохранить пароль и ключи в облаке**. Затем ожидайте окончания настройки - это займёт несколько минут. По завершении появится уведомление с предложением обновить страницу - так и сделайте. После этого приложение настроено и готово к наполнению пользовательским содержимым: API, брокерами, трейдерами, терминалами и т.п.
