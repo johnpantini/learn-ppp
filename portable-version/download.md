@@ -14,7 +14,7 @@ description: Windows x64
 
 Запустите файл установщика и следуйте инструкциям:
 
-[https://github.com/johnpantini/ppp/releases/download/v5.34.2/ppp\_5.34.2\_x64-setup.exe](https://github.com/johnpantini/ppp/releases/download/v5.34.2/ppp_5.34.2_x64-setup.exe)
+[https://github.com/johnpantini/ppp/releases/download/v5.34.4/ppp\_5.34.4\_x64-setup.exe](https://github.com/johnpantini/ppp/releases/download/v5.34.4/ppp_5.34.4_x64-setup.exe)
 
 ## Дополнительно
 
